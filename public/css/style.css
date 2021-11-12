@@ -1,0 +1,29 @@
+.hero{
+    background-image: url('../bg2.PNG'); 
+    margin-top: 5px;
+    height: 40%;
+    max-height: max-content;
+}
+.nav-item{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.3em;
+}
+.navbar-brand{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.1em;
+}
+
+h2{
+    font-size: 100px;
+    color: rgb(182, 77, 94);
+    text-shadow: rgb(red, green, blue);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.card1{
+    background-color: lightgrey; 
+}
+
+.index{
+    margin-top: 20px;
+}
